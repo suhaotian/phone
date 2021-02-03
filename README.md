@@ -35,7 +35,7 @@ yarn add phone3
 
 ## Demo
 
-[Try it on CodeSandbox](https://codesandbox.io/s/phone-browser-example-react-o5vt5?file=/src/App.js)
+[Try it on CodeSandbox](https://codesandbox.io/s/phone-browser-example-react-forked-ord6b?file=/src/App.js)
 
 ## Usage
 
