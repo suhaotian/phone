@@ -1,4 +1,4 @@
-# This is a folk of *aftership/phone*, but support partial countries code (means if can only support limit countries and not all)
+# This is a folk of *aftership/phone*, support partial countries code (means you can only support limit countries that you want but not all)
 
 ## Phone &middot; [![Build Status](https://travis-ci.org/AfterShip/phone.svg?branch=v2)](https://travis-ci.org/AfterShip/phone) [![codecov](https://codecov.io/gh/AfterShip/phone/branch/master/graph/badge.svg)](https://codecov.io/gh/AfterShip/phone) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
